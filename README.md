@@ -9,7 +9,7 @@ A full-stack personal code snippet manager — save, search, tag, and share your
 > Some features may not work as expected. Contributions and feedback are welcome!
 
 
-**Live Demo:** [snipvault.vercel.app](https://snipvault.vercel.app) &nbsp;·&nbsp; **Backend API:** [snipvault-api.onrender.com](https://snipvault-api.onrender.com)
+**Live Demo:** soon &nbsp;·&nbsp; **Backend API:** soon
 
 ![SnipVault Dashboard Preview](https://placehold.co/1200x600/1a1a2e/ffffff?text=SnipVault+Dashboard+Preview)
 
