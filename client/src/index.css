@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0f1117;
+  color: #e2e8f0;
+  margin: 0;
+}
+
+code, pre, .mono { font-family: 'JetBrains Mono', monospace; }
+
+/* Prism theme overrides */
+pre[class*="language-"] {
+  background: #1a1d27 !important;
+  border-radius: 8px;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.6;
+}
+code[class*="language-"] { font-family: 'JetBrains Mono', monospace !important; font-size: 13px; }
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #1a1d27; }
+::-webkit-scrollbar-thumb { background: #2d3148; border-radius: 3px; }
