@@ -2,6 +2,13 @@
 
 A full-stack personal code snippet manager — save, search, tag, and share your code snippets with syntax highlighting and a one-click public share link.
 
+![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-orange)
+![Version](https://img.shields.io/badge/Version-0.1.0%20prototype-blue)
+
+> 🚧 **This project is a prototype and is actively being developed.**
+> Some features may not work as expected. Contributions and feedback are welcome!
+
+
 **Live Demo:** [snipvault.vercel.app](https://snipvault.vercel.app) &nbsp;·&nbsp; **Backend API:** [snipvault-api.onrender.com](https://snipvault-api.onrender.com)
 
 ![SnipVault Dashboard Preview](https://placehold.co/1200x600/1a1a2e/ffffff?text=SnipVault+Dashboard+Preview)
